@@ -1,0 +1,1223 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"da",
+				"dataFile"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ig",
+				"ignor_text_list"
+			],
+			[
+				"fo",
+				"for	for (…) {…}"
+			],
+			[
+				"do",
+				"download"
+			],
+			[
+				"DO",
+				"download"
+			],
+			[
+				"l_ph",
+				"l_photo_url"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"се",
+				"сервера"
+			],
+			[
+				"з",
+				"заявки"
+			],
+			[
+				"пе",
+				"периода"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"err",
+				"error	.error()"
+			],
+			[
+				"из",
+				"Изменение"
+			],
+			[
+				"l_",
+				"l_root"
+			],
+			[
+				"er",
+				"err"
+			],
+			[
+				"pre",
+				"prepend	.prepend()"
+			],
+			[
+				"re",
+				"return	@return"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"cl",
+				"cl	console.log"
+			],
+			[
+				"h",
+				"history"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"app",
+				"app_nsi"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"select",
+				"nodeSelected"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"sh",
+				"showSuccessMess"
+			],
+			[
+				"st",
+				"startLoader"
+			],
+			[
+				"объ",
+				"объекту"
+			],
+			[
+				"P50_O",
+				"P50_OBJECT_ID"
+			],
+			[
+				"объе",
+				"объект"
+			],
+			[
+				"u",
+				"util50"
+			],
+			[
+				"Об",
+				"Объект"
+			],
+			[
+				"se",
+				"showErrMess"
+			],
+			[
+				"get",
+				"getParent"
+			],
+			[
+				"fa",
+				"fail"
+			],
+			[
+				"set",
+				"setActive"
+			],
+			[
+				"r",
+				"ready	jQuery(document).ready"
+			],
+			[
+				"cno",
+				"console"
+			],
+			[
+				"scroll",
+				"scrollToActive"
+			],
+			[
+				"cn",
+				"cnlog"
+			],
+			[
+				"sort",
+				"sortChildren"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"th",
+				"this	$(this)"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"e",
+				"extend	$.extend()"
+			],
+			[
+				"parent",
+				"parent	.parent()"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"c",
+				"click	.click()"
+			],
+			[
+				"ch",
+				"change	.change()"
+			],
+			[
+				"key",
+				"keypress	.keypress()"
+			],
+			[
+				"ret",
+				"return"
+			],
+			[
+				"p",
+				"path"
+			],
+			[
+				"ty",
+				"typeof"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"on",
+				"onclick"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"td",
+				"td-n	text-decoration: none;"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"of",
+				"offset	.offset()"
+			],
+			[
+				"var",
+				"vertical-align"
+			],
+			[
+				"save",
+				"btn_SAVE"
+			],
+			[
+				"remove",
+				"removeClass	.removeClass()"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"_",
+				"_init_Sizes"
+			],
+			[
+				"time",
+				"timeEnd"
+			],
+			[
+				"append",
+				"append	.append()"
+			],
+			[
+				"a",
+				"append	.append()"
+			],
+			[
+				"filter",
+				"filter	.filter()"
+			],
+			[
+				"pr",
+				"prev	.prev()"
+			],
+			[
+				"clo",
+				"console"
+			],
+			[
+				"wi",
+				"width	.width()"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"br",
+				"break"
+			],
+			[
+				"background-p",
+				"background-position"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"J",
+				"jQuery"
+			],
+			[
+				"сооб",
+				"сообщение"
+			],
+			[
+				"border-",
+				"border-bottom-color"
+			],
+			[
+				"tr",
+				"tree"
+			],
+			[
+				"g",
+				"getParent"
+			],
+			[
+				"so",
+				"sort"
+			],
+			[
+				"ajax",
+				"ajaxsuccess	$.ajaxSuccess()"
+			],
+			[
+				"p_",
+				"p_height"
+			],
+			[
+				"tree",
+				"tree_id"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"f-w",
+				"fw-b	font-weight: bold;"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"filt",
+				"filter	.filter()"
+			],
+			[
+				"border-top-",
+				"border-top-color"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"border-top",
+				"border-top-width"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"inn",
+				"inner"
+			],
+			[
+				"pare",
+				"parent	.parent()"
+			],
+			[
+				"значен",
+				"значения"
+			],
+			[
+				"has",
+				"hasClass	.hasClass()"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"v",
+				"val	.val()"
+			],
+			[
+				"fil",
+				"filter	.filter()"
+			],
+			[
+				"fi",
+				"filter	.filter() function"
+			],
+			[
+				"t",
+				"text	.text()"
+			],
+			[
+				"appe",
+				"append	.append()"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"moveObject",
+				"moveObjectReturnError"
+			],
+			[
+				"opti",
+				"options"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"hight",
+				"height	.height()"
+			],
+			[
+				"cs",
+				"css	.css() - single"
+			],
+			[
+				"un",
+				"unbind	.unbind()"
+			],
+			[
+				"eac",
+				"each	.each()"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "scraping.js",
+			"settings":
+			{
+				"buffer_size": 6125,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "data.json",
+			"settings":
+			{
+				"buffer_size": 354,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.json",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/JSHint/JSHint.sublime-build",
+					""
+				],
+				[
+					"Packages/JSLint/JSLint.sublime-build",
+					""
+				],
+				[
+					"Packages/YUI Compressor/YUI Compressor.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/JSHint/JSHint.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 160.0,
+		"last_filter": "Package Control: in",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"pa",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: di",
+				"Package Control: Disable Package"
+			],
+			[
+				"sass",
+				"Set Syntax: SASS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"set syn java",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"Snippet: ",
+				"Snippet: console.log"
+			],
+			[
+				"Package Control: en",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"s",
+				"Side Bar: Refresh"
+			],
+			[
+				"Package Control: e",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"",
+				"CSS3: Validate"
+			],
+			[
+				"htmlprettify",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"jsh",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"Snippet: cl",
+				"Snippet: console.log"
+			],
+			[
+				"Package Control: u",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 418.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"package_name = 'My Package'",
+			"import sys",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Dropbox/apps/Scraping",
+		"/C/Dropbox/apps/Scraping/src/style",
+		"/C/Dropbox/apps/Scraping/src/style/partials",
+		"/C/Dropbox/apps/Scraping/src/js",
+		"/C/Dropbox/apps/Scraping/src/js/partials"
+	],
+	"file_history":
+	[
+		"/C/Dropbox/apps/Scraping/vk.js",
+		"/C/Dropbox/apps/Scraping/package.json",
+		"/C/Dropbox/apps/Scraping/data.json",
+		"/C/Dropbox/apps/Scraping/config.json",
+		"/C/Dropbox/apps/Scraping/ChangeTag.java",
+		"/C/Dropbox/apps/Sublime Text Build 3103 x64/Data/Packages/User/Terminal.sublime-settings",
+		"/C/Dropbox/apps/Sublime Text Build 3103 x64/Data/Packages/Terminal/Terminal.sublime-settings",
+		"/C/Dropbox/apps/Sublime Text Build 3103 x64/Data/Packages/User/Terminal (Windows).sublime-settings",
+		"/C/Dropbox/apps/Scraping/index.htm",
+		"/c/Dropbox/apps/Sublime Text Build 3103 x64/Data/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+		"/C/Dropbox/apps/Scraping/scraping.sublime-project",
+		"/C/APP/vk/test2.js",
+		"/C/APP/vk/test.js",
+		"/C/Dropbox/apps/Scraping/scraping.sublime-workspace",
+		"/C/Dropbox/apps/Scraping/app_nsi.sublime-project",
+		"/C/Dropbox/apps/Scraping/src/js/partials/util18.js",
+		"/C/Dropbox/apps/Scraping/src/style/partials/status.scss",
+		"/C/Dropbox/apps/Scraping/src/js/partials/core.js",
+		"/C/Dropbox/apps/Scraping/gulp/tasks/browserify.js",
+		"/C/Dropbox/apps/Scraping/Gulpfile.js",
+		"/C/APP/app_nsi/src/style/partials/status.scss",
+		"/C/APP/app_nsi/src/js/partials/util50.js",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/C/APP/app_nsi/src/js/partials/util94.js",
+		"/C/APP/app_nsi/src/js/partials/util34.js",
+		"/C/APP/app_nsi/src/js/partials/unitTree.js",
+		"/C/APP/app_nsi/src/js/partials/util35.js",
+		"/C/APP/app_nsi/src/style/partials/page.scss",
+		"/C/APP/app_nsi/src/js/app_nsi.js",
+		"/C/APP/app_nsi/src/js/partials/app_errors.json",
+		"/C/APP/app_nsi/src/style/partials/fancytree_status.scss",
+		"/C/APP/app_nsi/src/js/partials/errorListener.js",
+		"/C/APP/app_nsi/src/js/partials/utils.js",
+		"/C/APP/app_nsi/src/style/app_nsi.scss",
+		"/C/APP/test/src/style/main.css",
+		"/C/APP/test/src/style/main.scss",
+		"/C/APP/test/Gulpfile.js",
+		"/C/APP/inst/test.js",
+		"/C/APP/vk/index.htm",
+		"/C/APP/app_nsi/lib/nsi_load_Tree.js",
+		"/C/APP/app_nsi/.jshintrc",
+		"/C/APP/app_nsi/lib/jquery-fancytree/dist/jquery.fancytree-all.js",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/SassBeautify/SassBeautify.sublime-settings",
+		"/C/APP/app_nsi/src/style/partials/page.min.css",
+		"/X/themes/apps/js/4_1.js",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/User/JavaScript.sublime-settings",
+		"/C/APP/exemple/Understanding CommonJS.js",
+		"/X/app_nsi/style/app_nsi.css",
+		"/C/APP/app_nsi/lib/jquery.maskedinput.js",
+		"/C/APP/app_nsi/app_nsi.sublime-project",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/User/console.log.sublime-snippet",
+		"/C/APP/app_nsi/src/js/partials/coreNew.js",
+		"/C/APP/app_nsi/src/js/partials/util35New.js",
+		"/C/APP/app_nsi/gulp/tasks/watch.js",
+		"/C/APP/app_nsi/Gulpfile.js",
+		"/C/APP/app_nsi/src/js/partials/Utils.js",
+		"/C/APP/app_nsi/Gulpfile - копия.js",
+		"/C/APP/app_nsi/gulp/config.json",
+		"/C/APP/app_nsi/gulp/tasks/js.js",
+		"/C/APP/app_nsi/gulp/tasks/clean.js",
+		"/C/APP/app_nsi/gulp/tasks/image.js",
+		"/C/APP/app_nsi/gulp/tasks/documentation.js",
+		"/C/APP/app_nsi/gulp/tasks/fonts.js",
+		"/C/APP/app_nsi/gulp/tasks/html.js",
+		"/C/APP/app_nsi/gulp/tasks/style.js",
+		"/C/APP/app_nsi/gulp/index.js",
+		"/C/APP/app_nsi/gulp/tasks/browserify.js",
+		"/C/APP/history/history.js",
+		"/C/APP/exemple/Public & Private.js",
+		"/X/libraries/apex/core.js",
+		"/X/libraries/apex/widget.js",
+		"/X/libraries/apex/storage.js",
+		"/X/libraries/apex/event.js",
+		"/X/libraries/apex/debug.js",
+		"/X/libraries/apex/util.js",
+		"/X/libraries/apex/navigation.js",
+		"/X/libraries/apex/minified/desktop.min.js",
+		"/X/libraries/jquery/1.7.1/jquery-1.7.1.js",
+		"/X/libraries/apex/minified/desktop_all.min.js",
+		"/X/libraries/apex/apex_4_2.js",
+		"/X/libraries/apex/websheets.js",
+		"/X/libraries/apex/page.js",
+		"/X/libraries/apex/widget.autocomplete.js",
+		"/X/libraries/apex/theme.js",
+		"/X/libraries/apex/builder.js",
+		"/C/APP/app_nsi/src/style/partials/dynatree_status.scss",
+		"/C/APP/app_nsi/lib/css3grayscale-voronianski/grayscale.css",
+		"/C/APP/app_nsi/index.html",
+		"/C/APP/app_nsi/lib/css3grayscale-voronianski/index.html",
+		"/X/app_nsi/js/app_nsi.min.js",
+		"/X/app_nsi/style/page.css",
+		"/X/app_nsi/style/app_nsi.min.css",
+		"/C/APP/app_nsi/src/js/partials/core.js",
+		"/C/APP/app_nsi/src/style/partials/status.css",
+		"/C/APP/app_nsi/src/style/partials/page.css",
+		"/X/app_nsi/app_nsi.js",
+		"/C/APP/app_nsi/build/js/app_nsi.js",
+		"/X/javascript/Custom/app_nsi/app_nsi.js",
+		"/C/APP/app_nsi/src/js/partials/util18.js",
+		"/C/APP/app_nsi/css/main.css",
+		"/C/APP/app_nsi/src/page.js",
+		"/C/APP/app_nsi/css/btn.css",
+		"/C/APP/app_nsi/dist/app_nsi.js",
+		"/C/APP/app_nsi/dist/app_nsi-min.js",
+		"/C/APP/app_nsi/package.json",
+		"/C/APP/app_nsi/build/btn.css",
+		"/C/APP/app_nsi/gulpfile.js",
+		"/C/Работа/app/app_nsi/package.json",
+		"/X/javascript/Custom/nsi_load_Tree.js",
+		"/X/javascript/Custom/app_nsi/util50.js",
+		"/X/javascript/Custom/Page50/page-min.js",
+		"/X/javascript/Custom/app_nsi/core.js",
+		"/X/css/Custom/fancytree_status.css",
+		"/X/.jsbeautifyrc",
+		"/X/css/Custom/status-min.css",
+		"/X/css/Custom/dynatree_status.css",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/User/Soda Dark 3.sublime-theme/Soda Dark 3.sublime-theme",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/w7/AppData/Roaming/Sublime Text 3/Packages/DocBlockr/Base File.sublime-settings",
+		"/X/javascript/Custom/Page50/browser_history.js",
+		"/X/plugins/modal_page/server/apex_modal_page.min.js",
+		"/X/javascript/Custom/Utils.js",
+		"/X/libraries/jquery-fancytree/dist/jquery.fancytree-all.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 114.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"l_",
+			"p_data",
+			"elem",
+			"results",
+			"l_obj",
+			"readConfig",
+			"var",
+			"p_prog.url",
+			"};\n",
+			"url",
+			"l_txt",
+			"l_artist_arr.join(',')",
+			"ignor_text_list",
+			"'",
+			"ignor_text_list",
+			"'",
+			"fruits",
+			"l_cmd",
+			"\",",
+			"l_name",
+			"p_tag",
+			"});\n            setTags(l_mp3_name, {",
+			"value: ",
+			"});\n            setTags(l_mp3_name, {",
+			"name: \"",
+			"l_params",
+			"l_path",
+			"\\",
+			"photo",
+			"\\",
+			"l_user_data.items[i]",
+			"l_photo_name",
+			"0x",
+			"x",
+			"link",
+			"src",
+			".jpg",
+			"img",
+			"published_by",
+			"Alex Alll",
+			"d32f2f",
+			"e53935",
+			"selobj_parametersrow",
+			"'",
+			"getKey",
+			"reloadNode",
+			"removeChildrenNodes",
+			"n ",
+			"n",
+			"a_PER",
+			"l_sl_sel_name",
+			"per_value",
+			"'",
+			"=",
+			"break;",
+			"l_per_typ",
+			"numPER",
+			"ssize",
+			"el_name",
+			"unit_id",
+			"$elem",
+			"getUIContainer",
+			"get",
+			"_get",
+			"get",
+			"$v('P53_OBJECT_ID')",
+			"loadchildren",
+			"init",
+			"loadchildren",
+			"postInitNode",
+			"errorListener",
+			"archPerBtn",
+			"\"#archPerBtn\"",
+			"l_object_item",
+			"_item",
+			"l_object_item",
+			"l_class_item",
+			"add",
+			"фвв",
+			"l_anl_reg",
+			"l_ret",
+			"l_class_item",
+			"l_chkStateProc",
+			"cls",
+			"p_p2",
+			"[description]",
+			"req",
+			"p_data",
+			"hist",
+			"his",
+			"l_param",
+			"l_obj",
+			"process",
+			"apex.server.process",
+			"l_err",
+			"util34",
+			"34",
+			"'",
+			"34",
+			"auto_resize_region",
+			"l_ultree.width() - l_d",
+			"filterRegion",
+			"section.filterRegion",
+			"section.filterRegion.uBorderlessRegion>div.uRegionHeading h1",
+			"\"color\"",
+			"css(\"color\"",
+			"chg_sel_list_color",
+			"sele",
+			"get_count_sql",
+			"sele",
+			"sel",
+			"sele",
+			"$(this)",
+			"for",
+			"l_root",
+			"$(\"ul.fancytree-container:first\")",
+			"150",
+			"105",
+			"$(\"#filter h1>span.title>p\")",
+			"f_re",
+			"Setting",
+			"setItemsValue",
+			"sub",
+			"P94_PARENT_ID",
+			"P94_LEVEL",
+			"page.png",
+			"nsi_obj_attr_other",
+			"go_to_class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"l_unit_a",
+			"l_unit_val",
+			"l_per_typ",
+			"18",
+			"l_attr_reg",
+			"l_ref_attr",
+			"\"+l_bind_reg",
+			"\"+l_bind_reg+\"",
+			"l_bind_reg",
+			"l_class_reg",
+			"l_key_item",
+			"app_nsi.setHideShowRegion(\"#",
+			"ИД АСДУ ЕСГ",
+			"Gathering=\"0\"",
+			"PeriodID=\"2\"",
+			"C99432BBD3D9FDC0E040F00A39053539",
+			"MERGE",
+			"window.console.log",
+			"\"",
+			"PSItree-id-",
+			"val_sort_by_name",
+			"val_app_request_id",
+			"val_app_user_id",
+			"val_org",
+			"val_sort_by_name",
+			"val_class_id",
+			"p_class_id",
+			"P55_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "scraping.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6125,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4355,
+								4355
+							]
+						],
+						"settings":
+						{
+							"easy_motion_mode": false,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JavaScriptNext.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1824.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "data.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								184,
+								184
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.css3_validator":
+	{
+		"height": 124.0
+	},
+	"output.exec":
+	{
+		"height": 105.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.gulp_output":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "scraping.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"page",
+				"Styles\\page.scss"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

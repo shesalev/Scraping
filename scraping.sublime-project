@@ -1,0 +1,58 @@
+{
+	"folders":
+	[
+		{
+			"path": "gulp",
+			"name": "Gulp",
+			// "folder_exclude_patterns": ["*"],
+			"file_include_patterns": ["*.js","*.json"]
+		},{
+			"path": ".",
+			"name": "Scraping C:/Dropbox/apps/Scraping",
+			"folder_exclude_patterns": ["*"],
+			"file_include_patterns": ["*.jscsrc","*.sublime-project","*.sublime-workspace","*.js","*.jshintrc",".jsbeautifyrc","index.html","package.json"]
+		},
+		{
+			"path": "src/style",
+			"name": "Styles Main",
+			"folder_exclude_patterns": ["*"],
+			"file_exclude_patterns": ["*.gif","*.png"]
+		},
+		{
+			"path": "src/style/partials",
+			"name": "Styles",
+			"folder_exclude_patterns": ["backup"],
+			"file_exclude_patterns": ["*.gif","*.png"]
+		},
+		{
+			"path": "src/js",
+			"name": "JS Main",
+			"folder_exclude_patterns": ["*"],
+			"file_exclude_patterns": ["*.gif","*.png"]
+		},
+		{
+			"path": "src/js/partials",
+			"name": "JS",
+			"file_exclude_patterns": ["*.gif","*.png"]
+		},
+		{
+			"path": "lib",
+			"name": "Libs",
+			"file_exclude_patterns": ["*.gif","*.png"]
+		},
+		{
+			"path": "build",
+			"name": "Build",
+			"file_exclude_patterns": ["*.gif","*.png"]
+		}
+	],
+	"settings":
+	{
+		"tab_size": 2,
+		"translate_tabs_to_spaces": false,
+		"JSCS-Formatter": {
+			"config_path": ".jscsrc"
+		}
+	},
+	"plugins": ["jscs-plugin", "./lib/project-jscs-plugin"]
+}
